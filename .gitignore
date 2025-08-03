@@ -1,3 +1,3 @@
 .git
 
-.obsidian/plugins/*/data.json
+.obsidian/plugins/*/*.json
